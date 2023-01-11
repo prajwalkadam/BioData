@@ -1,0 +1,37 @@
+.photo {
+    border-radius: 50%;
+}
+body{
+    font-family: 'Noto Sans Tangsa', sans-serif;
+}
+h5 {
+    display: inline-block;
+    padding-right: 50px;
+    margin: auto;
+}
+.clg {
+    margin-left: 8x;
+}
+.main {
+    padding-left: 240px;
+}
+.aboutme {
+    padding-left: 270px;
+}
+.imgcontainer {
+    background-color: #c89176;
+    width:fit-content;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    float: left;
+}
+.name {
+    display: inline-block;
+    margin-left: 50px;
+}
+hr {
+    border: solid;
+}
